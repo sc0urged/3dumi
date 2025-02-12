@@ -1,0 +1,8 @@
+Model Information:
+* title:	Baby Tapir Test
+* source:	https://sketchfab.com/3d-models/baby-tapir-test-989f4b1945f844eca86e536d88fe97cf
+* author:	kenchoo (https://sketchfab.com/kenchoo)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
