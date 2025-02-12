@@ -31,7 +31,7 @@ controls.update();
 
 // Load the GLTF model
 loader.load(
-    './tapir3d/scene.gltf',  // Use relative path
+    'src/tapir3d/scene.gltf',  // Use relative path
     function (gltf) {
         console.log('Model loaded successfully:', gltf);
         const model = gltf.scene;
